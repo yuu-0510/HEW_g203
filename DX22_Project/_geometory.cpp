@@ -121,6 +121,7 @@ void Geometory::MakeCylinder()
 		// ‘¤–Ê
 
 		//aaabbb
+		//hi
 
 	};
 	
