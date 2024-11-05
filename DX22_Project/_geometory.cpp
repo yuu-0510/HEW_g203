@@ -122,7 +122,7 @@ void Geometory::MakeCylinder()
 
 		//aaabbb
 		//hi
-		//hola!
+		//yahho-
 
 	};
 	
