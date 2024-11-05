@@ -117,7 +117,7 @@ void Geometory::MakeCylinder()
 		//{{cos(TORAD(90.0f)) * -0.5f,-1.0f,sin(TORAD(90.0f) *  0.5f)},{ 0.5f,1.0f}},//14
 		//{{cos(TORAD(45.0f)) *  0.5f,-1.0f,sin(TORAD(45.0f) *  0.5f)},{0.25f,0.5f}},//15
 
-
+		//yeah!
 		// ‘¤–Ê
 
 		//aaabbb
