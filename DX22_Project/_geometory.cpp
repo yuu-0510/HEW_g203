@@ -122,6 +122,8 @@ void Geometory::MakeCylinder()
 
 		//aaabbb
 		//hi
+		//yahho-
+		//konitiwa
 
 	};
 	
