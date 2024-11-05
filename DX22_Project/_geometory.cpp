@@ -123,7 +123,7 @@ void Geometory::MakeCylinder()
 		//moukonaikarane-
 		//hi
 		//yahho-
-		//konitiwa
+		//konbanwa
 
 	};
 	
