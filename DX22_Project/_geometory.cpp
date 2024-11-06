@@ -120,7 +120,10 @@ void Geometory::MakeCylinder()
 
 		// ‘¤–Ê
 
-		
+		//aaabbb
+		//hi
+		//yahho-
+		//konitiwa
 
 	};
 	
