@@ -2,5 +2,6 @@
 #include "ObjectBase.h"
 class CCharacter : public CObjectBase
 {
+
 };
 
