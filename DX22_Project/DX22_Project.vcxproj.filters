@@ -28,6 +28,12 @@
     <Filter Include="ソース ファイル\Work">
       <UniqueIdentifier>{d40b6216-14f8-474d-bd1d-053eaf07e0c5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\Work2">
+      <UniqueIdentifier>{25ac86e8-9797-4582-9752-1e8a369447f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Work">
+      <UniqueIdentifier>{7dbd0e27-4e5a-4159-9d37-3b64a6c0320a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Startup.cpp">
@@ -72,6 +78,9 @@
     <ClCompile Include="Model.cpp">
       <Filter>ソース ファイル\System</Filter>
     </ClCompile>
+    <ClCompile Include="ObjectBase.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Defines.h">
@@ -110,5 +119,19 @@
     <ClInclude Include="ShaderList.h">
       <Filter>ヘッダー ファイル\System</Filter>
     </ClInclude>
+    <ClInclude Include="DirectXTex\DirectXTex.h">
+      <Filter>リソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectXTex\TextureLoad.h">
+      <Filter>リソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectBase.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DirectXTex\DirectXTex.inl">
+      <Filter>リソース ファイル</Filter>
+    </None>
   </ItemGroup>
 </Project>
