@@ -134,23 +134,29 @@
     <ClInclude Include="ShaderList.h">
       <Filter>ヘッダー ファイル\System</Filter>
     </ClInclude>
-    <ClInclude Include="Block.h">
+    <ClInclude Include="DirectXTex\DirectXTex.h">
       <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectXTex\TextureLoad.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>ヘッダー ファイル\Class</Filter>
     </ClInclude>
     <ClInclude Include="Character.h">
-      <Filter>ヘッダー ファイル</Filter>
+      <Filter>ヘッダー ファイル\Class</Filter>
     </ClInclude>
     <ClInclude Include="Map.h">
-      <Filter>ヘッダー ファイル</Filter>
+      <Filter>ヘッダー ファイル\Class</Filter>
     </ClInclude>
     <ClInclude Include="ObjectBase.h">
-      <Filter>ヘッダー ファイル</Filter>
+      <Filter>ヘッダー ファイル\Class</Filter>
     </ClInclude>
     <ClInclude Include="Player.h">
-      <Filter>ヘッダー ファイル</Filter>
+      <Filter>ヘッダー ファイル\Class</Filter>
     </ClInclude>
     <ClInclude Include="Wire.h">
-      <Filter>ヘッダー ファイル</Filter>
+      <Filter>ヘッダー ファイル\Class</Filter>
     </ClInclude>
     <ClInclude Include="DirectXTex\DirectXTex.h">
       <Filter>ヘッダー ファイル</Filter>
@@ -158,6 +164,11 @@
     <ClInclude Include="DirectXTex\TextureLoad.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DirectXTex\DirectXTex.inl">
+      <Filter>ヘッダー ファイル</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="DirectXTex\DirectXTex.inl">
