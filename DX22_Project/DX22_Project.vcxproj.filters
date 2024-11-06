@@ -125,6 +125,17 @@
     <ClInclude Include="DirectXTex\TextureLoad.h">
       <Filter>リソース ファイル</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DirectXTex\DirectXTex.inl">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <ClInclude Include="DirectXTex\DirectXTex.h">
+      <Filter>リソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectXTex\TextureLoad.h">
+      <Filter>リソース ファイル</Filter>
+    </ClInclude>
     <ClInclude Include="ObjectBase.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
