@@ -123,7 +123,7 @@ void Geometory::MakeCylinder()
 		//uwaaaaaaa
 		//hi
 		//yahho-
-		//konitiwa
+		//konitiwaaaa
 
 	};
 	
